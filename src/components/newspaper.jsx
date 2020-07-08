@@ -389,7 +389,7 @@ function News() {
             </div>
             <footer>
                 <h4>© 2020 Because who doesn't want a footer on their website?
-                <br /><small>Follow us on.</small></h4>
+                <br /><small><p>Follow us on.</p></small></h4>
             </footer>
         </React.Fragment>
 
