@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import News from './components/newspaper';
+import Game from './components/2048';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <News />
+    <Game />
   </React.StrictMode>,
   document.getElementById('root')
 );
