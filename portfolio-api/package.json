@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "it works"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcus0086/ProductionApp.git"
+  },
+  "keywords": [
+    "Marcus"
+  ],
+  "author": "Raghav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcus0086/ProductionApp/issues"
+  },
+  "homepage": "https://github.com/Marcus0086/ProductionApp#readme"
+}

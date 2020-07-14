@@ -12,14 +12,14 @@ class Port extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            title: 'Raghav AKA Marcus',
+            title: 'AdditcoX',
             headerlinks: [
                 { title: 'Home', path: '/' },
                 { title: 'About', path: '/about' },
                 { title: 'Contact', path: '/contact' },
             ],
             home: {
-                title: 'I am the best',
+                title: 'Home Sweet Home',
                 subTitle: 'Wanna work with me?',
                 text: 'Checkout my projects'
             },
@@ -37,7 +37,7 @@ class Port extends React.Component {
             <Router>
                 <Container className="p-0" fluid={true}>
                     <Navbar className="border-bottom" bg="transparent" expand="lg">
-                        <Navbar.Brand>Marcus</Navbar.Brand>
+                        <Navbar.Brand>{this.state.title}</Navbar.Brand>
                         <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
                         <Navbar.Collapse id="navbar-toggle">
                             <Nav className="ml-auto">

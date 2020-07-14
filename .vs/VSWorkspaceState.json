@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\portfolio-api",
     "\\public",
     "\\src",
-    "\\src\\components",
-    "\\src\\portfoliocomponents"
+    "\\src\\assets",
+    "\\src\\assets\\Images",
+    "\\src\\pages"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\portfolio-api\\package.json",
   "PreviewInSolutionExplorer": false
 }
